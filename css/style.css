@@ -1,0 +1,28 @@
+body {
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12pt;
+    
+}
+ul {
+    
+    padding: 20px;
+    background-color: bisque;
+    justify-content: space-around;
+    display: flex;
+    font-size: 20px;
+    list-style-type: none;
+
+    
+}
+
+div {
+    display: flex;
+    
+
+}
+footer {
+    font-size: 25px;
+    background-color:honeydew;
+    display: block;
+}
